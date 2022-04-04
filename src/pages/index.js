@@ -179,7 +179,7 @@ function Home() {
           <div className={styles.indexCtas}>
             <Link
               className={styles.indexCtasGetStartedButton}
-              to={useBaseUrl('docs/')}>
+              to={useBaseUrl('/docs/guides/ic-overview')}>
               <Translate>开始学习</Translate>
             </Link>
             <Link
@@ -195,7 +195,7 @@ function Home() {
           <Translate
             values={{
               migrationGuideLink: (
-                <Link to='/docs/guides/v4-migration'>
+                <Link to='/docs/training/icp-101'>
                   <Translate>从 0 到 1 快速学习ICP开发</Translate>
                 </Link>
               )

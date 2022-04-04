@@ -60,20 +60,6 @@ module.exports = {
       respectPrefersColorScheme: true
     }
   },
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'es'],
-    localeConfigs: {
-      en: {
-        label: 'English',
-        direction: 'ltr'
-      },
-      es: {
-        label: 'Español',
-        direction: 'ltr'
-      }
-    }
-  },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -92,7 +78,6 @@ module.exports = {
           postsPerPage: 3,
           feedOptions: {
             type: 'all',
-            language: 'es',
             copyright: `Copyright © ${new Date().getFullYear()} demianDAO, Inc.`
           }
         },
