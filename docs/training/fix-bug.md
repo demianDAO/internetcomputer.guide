@@ -8,7 +8,7 @@ sidebar_label: IC开发bug指南
 
 在某些情况下，由于复制状态错误，在本地启动 Internet 计算机网络会失败。如果在运行 dfx start 启动本地 Internet 计算机网络时遇到问题：
 
-在显示网络操作的终端中，按 Control-C 可中断本地网络进程。
+在显示网络操作的终端中，按 `Control-C` 可中断本地网络进程。
 
 通过运行以下命令停止 Internet 计算机网络：
 

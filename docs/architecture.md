@@ -6,10 +6,10 @@ sidebar_label: Architecture
 
 ## Table of Contents
 
-* **[Physical architecture](#physical-architecture)**
-* **[Communications architecture](#communications-architecture)**
-* **[Client architecture](#client-architecture)**
-* **[Server architecture](#server-architecture)**
+- **[Physical architecture](#physical-architecture)**
+- **[Communications architecture](#communications-architecture)**
+- **[Client architecture](#client-architecture)**
+- **[Server architecture](#server-architecture)**
 
 ---
 
@@ -31,7 +31,7 @@ Summarizing, AWE-based applications can be easily and quickly adapted to the env
 
 AWE uses Atmosphere framework to adapt the communication between browser and server. Messages between them use JSON format.
 
-A bidirectional communication is established so the server not only responds to requests from clients, but sends data to connected clients at any time.  
+A bidirectional communication is established so the server not only responds to requests from clients, but sends data to connected clients at any time.
 
 ## Client architecture
 
@@ -55,14 +55,12 @@ The main characteristic of server-side architecture is being a multilayer archit
 
 The controller layer manages business logic. It handles requests from the clients by redirecting them to the service layer, where are managed by the corresponding engine:
 
-* Screen engine: It generates JavaScript source code and CSS files from the XML screen file. It also manages screen actions.
+- Screen engine: It generates JavaScript source code and CSS files from the XML screen file. It also manages screen actions.
 
-* Data engine: Access to external systems to retrieve information.
+- Data engine: Access to external systems to retrieve information.
 
-* Maintain engine: Manages request to execute many processes: database queries, email delivery or report generations.
+- Maintain engine: Manages request to execute many processes: database queries, email delivery or report generations.
 
-* Security engine: It is a layer between the model and controller layers, where requests are managed in order to provide security services against the most common attacks: SQl injection, XSS, etc.
-
-* Document engine: Generates reports using Jasper library.
+- Security engine: It is a layer between the model and controller layers, where requests are managed in order to provide security services against the most common attacks: SQl injection, XSS, etc.
 
 <img alt="Server design architecture" src={require('@docusaurus/useBaseUrl').default('img/server_design_architecture.png')} />

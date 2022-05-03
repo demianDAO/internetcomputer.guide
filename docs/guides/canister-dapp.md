@@ -1,6 +1,6 @@
 ---
 id: dapp-canister
-title: Canister（dapps/智能合约）
+title: Canister（dApps/智能合约）
 ---
 
 ## Canister（dapps/智能合约）

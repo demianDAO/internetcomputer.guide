@@ -335,7 +335,7 @@ From the above data, there doesn't seem to be any reason to hold ICP, or to want
 
 First: it is still in an early stage of development, and for a project born at a high point may not even be as good as EOS, but in general a thing can rise we have to see if it can explode twice or many times, so we are betting on its future, someone also said, if you do not have the capital, then you can only bet, if you do not even have the courage to bet, then doomed to a lifetime of mediocrity.
 
-Second: It is suitable for some startup teams to develop because it is low cost and can follow the growth of the public chain itself, and of course it is also suitable for freelance developers or amateur enthusiasts to develop because the technologies used in ICP are relatively cutting edge, such as wasm, webauthn, chain key, etc.
+Second: It is suitable for some startup teams to develop because it is low cost and can follow the growth of the public chain itself, and of course it is also suitable for freelance developers or amateur enthusiasts to develop because the technologies used in ICP are relatively cutting edge, such as Rust, wasm, webauthn, chain key, etc.
 
 Thirdly, the team is a big factor in the success of a public chain, ICP is a star public chain with a team of 250+ people, of course there are many scientists and PhD's involved, but some people say they can't find out the real names of everyone, this may require a field trip to their office, I don't know, anyway, from the capital side, Dfinity has raised a total of three rounds of fundraising, raising about Dfinity has raised about $195 million in three rounds of fundraising, with capital from a16z, polychain, SV Angel and others.
 
