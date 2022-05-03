@@ -11,7 +11,13 @@ module.exports = {
       type: 'category',
       label: '新手指南',
       collapsed: true,
-      items: ['guides/ic-overview', 'guides/ic-vision', 'guides/dapp-canister']
+      items: [
+        'guides/ic-overview',
+        'guides/ic-vision',
+        'guides/dapp-canister',
+        'guides/ic-0-1-end',
+        'guides/ic-0-1-end-en'
+      ]
     },
     {
       type: 'category',
