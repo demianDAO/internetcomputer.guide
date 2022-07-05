@@ -46,5 +46,23 @@ module.exports = {
       collapsed: false,
       items: ['training/icp-101', 'training/glossary', 'training/fix-bug']
     }
+  ],
+  sample: [
+    {
+      type: 'category',
+      label: '代码事例',
+      collapsed: false,
+      items: [
+        'sample/hello',
+        'sample/host-a-website',
+        'sample/dex',
+        'sample/nfts',
+        'sample/daos',
+        'sample/notes',
+        'sample/token-transfer',
+        'sample/host-unity-webgl',
+        'sample/hackathon-projects'
+      ]
+    }
   ]
 };

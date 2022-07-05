@@ -31,6 +31,13 @@ module.exports = {
           activesidebarclassname: 'navbar__link--active'
         },
         {
+          type: 'doc',
+          docId: 'sample/hello',
+          position: 'left',
+          label: 'Samples',
+          activesidebarclassname: 'navbar__link--active'
+        },
+        {
           to: 'blog',
           label: 'Blog',
           position: 'left'
