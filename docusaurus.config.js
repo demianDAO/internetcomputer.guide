@@ -43,6 +43,12 @@ module.exports = {
           position: 'left'
         },
         {
+          alt: 'DAO',
+          href: 'https://github.com/demianDAO/internetcomputer.guide/tree/main/static/whitepaper/NnsDAO_Boundaryless_Autonomous_Organization_kkdemian.pdf',
+          label: 'DAOs',
+          position: 'left'
+        },
+        {
           alt: 'Github repository',
           href: 'https://github.com/demianDAO/internetcomputer.guide',
           label: '🏴‍☠️',
