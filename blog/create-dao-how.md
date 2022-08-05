@@ -1,7 +1,7 @@
 ---
 title: 如何创建 DAO？
 author: demianDAO
-author_title: Senior Software Engineer @ kkdemian
+author_title: Software Engineer @ kkdemian
 author_url: https://avatars.githubusercontent.com/u/11025090
 author_image_url: https://avatars.githubusercontent.com/u/11025090?s=48&v=4
 tags: [dao, binance, icp]

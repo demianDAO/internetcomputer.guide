@@ -18,7 +18,8 @@ module.exports = {
         'guides/ic-0-1-end',
         'guides/ic-0-1-end-en',
         'guides/ic-0-1-nfts',
-        'guides/ic-0-1-nfts-en'
+        'guides/ic-0-1-nfts-en',
+        'guides/sns-tokenization'
       ]
     },
     {
