@@ -1,9 +1,9 @@
 ---
 title: 如何使用papyrs在IC上写作博客?
 author: kkdemian
-author_title: NnsDAO Labs @kkdemian
-author_url: <https://miro.medium.com/fit/c/176/176/1>*EUxBTb1IPNwWdkK2VqvcJg.png
-author_image_url: <https://miro.medium.com/fit/c/176/176/1>*EUxBTb1IPNwWdkK2VqvcJg.png
+author_title: Software Engineer @kkdemian
+author_url: https://avatars.githubusercontent.com/u/11025090
+author_image_url: https://avatars.githubusercontent.com/u/11025090?s=48&v=4
 tags: [dao, nnsdao, NDP, icp, web3, papyrs]
 ---
 
