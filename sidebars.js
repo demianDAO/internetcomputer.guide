@@ -45,7 +45,15 @@ module.exports = {
       type: 'category',
       label: '基础开发教程',
       collapsed: false,
-      items: ['training/icp-101', 'training/glossary', 'training/fix-bug']
+      items: [
+        'training/icp-101',
+        'training/web-speed',
+        'training/web-serving',
+        'training/https-outcalls',
+        'training/parallelism',
+        'training/glossary',
+        'training/fix-bug'
+      ]
     }
   ],
   sample: [
