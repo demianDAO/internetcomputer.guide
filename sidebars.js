@@ -26,20 +26,35 @@ module.exports = {
       type: 'category',
       label: 'IC经济模型',
       items: ['guides/ic-circulating-staked']
+    },
+    {
+      type: 'category',
+      label: 'IC生态白皮书',
+      collapsed: false,
+      items: ['whitepaper/openchat-whitepaper']
     }
   ],
-  schedule: [
-    // {
-    //   type: 'ref',
-    //   id: 'guides/scheduler'
-    // }
-    // {
-    //   type: 'category',
-    //   label: 'Schedule Task',
-    //   collapsed: false,
-    //   items: ['guides/schedule-configuration', 'guides/dependency-task']
-    // }
-  ],
+  // whitepaper: [
+  // {
+  //   type: 'category',
+  //   label: 'IC生态白皮书',
+  //   items: ['whitepaper/oc']
+  // }
+  // {
+  //   type: 'category',
+  //   label: 'Schedule Task',
+  //   collapsed: false,
+  //   items: ['guides/schedule-configuration', 'guides/dependency-task']
+  // }
+  // ],
+  // whitepaper: [
+  //   {
+  //     type: 'category',
+  //     label: 'IC生态白皮书',
+  //     collapsed: false,
+  //     items: ['whitepaper/openchat-whitepaper']
+  //   }
+  // ],
   training: [
     {
       type: 'category',

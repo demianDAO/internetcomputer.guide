@@ -37,6 +37,13 @@ module.exports = {
           label: 'Samples',
           activesidebarclassname: 'navbar__link--active'
         },
+        // {
+        //   type: 'doc',
+        //   docId: 'whitepaper/openchat-whitepaper',
+        //   position: 'left',
+        //   label: 'Whitepaper',
+        //   activesidebarclassname: 'navbar__link--active'
+        // },
         {
           to: 'blog',
           label: 'Blog',
@@ -59,7 +66,7 @@ module.exports = {
     footer: {
       style: 'dark',
 
-      copyright: `Copyright © ${new Date().getFullYear()} demianDAO.`
+      copyright: `Copyright © ${new Date().getFullYear()} demianDAOs.`
     },
     algolia: {
       apiKey: 'bbb756b741640f975ac0158bcedcefcb',
@@ -91,7 +98,7 @@ module.exports = {
           postsPerPage: 3,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} demianDAO, Inc.`
+            copyright: `Copyright © ${new Date().getFullYear()} demianDAOs, Inc.`
           }
         },
         theme: {
