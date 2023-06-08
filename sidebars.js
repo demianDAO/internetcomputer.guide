@@ -31,7 +31,7 @@ module.exports = {
       type: 'category',
       label: 'IC生态白皮书',
       collapsed: false,
-      items: ['whitepaper/openchat-whitepaper']
+      items: ['whitepaper/openchat-whitepaper', 'whitepaper/kinic-whitepaper']
     }
   ],
   // whitepaper: [
